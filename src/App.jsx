@@ -62,6 +62,7 @@ const App = () => {
       <article className="review">
         <div className="img-container">
           <img src={image} alt={name} className="person-img" />
+          {/* provient de React Icons library */}
           <span className="quote-icon">
             <FaQuoteRight />
           </span>
