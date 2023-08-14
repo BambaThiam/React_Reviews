@@ -59,6 +59,8 @@ const App = () => {
 
   return (
     <main>
+      {/* Title à supprimer si besoin */}
+      <h1 className="titleBamba">"BAMBA - React Reviews component"</h1>
       <article className="review">
         <div className="img-container">
           <img src={image} alt={name} className="person-img" />

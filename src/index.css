@@ -260,6 +260,10 @@ main {
   place-items: center;
 }
 
+.titleBamba {
+  margin: 3rem auto;
+}
+
 .review {
   width: 90vw;
   max-width: var(--fixed-width);
